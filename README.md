@@ -1,5 +1,4 @@
-![MasterHead](https://media.tenor.com/Z25t-Dm102AAAAAC/welcome.gif)
-
+<p align="center"> <img src="https://media.tenor.com/Z25t-Dm102AAAAAC/welcome.gif" width="900" height="70"/> </a></p>
 <h1 align="center">Hi 👋, I'm Ercan</h1>
 <h3 align="center">Welcome to my GitHub account where my projects are located.👋</h3>
 

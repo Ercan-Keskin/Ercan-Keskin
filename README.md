@@ -1,4 +1,6 @@
 <p align="center"> <img src="https://media.tenor.com/Z25t-Dm102AAAAAC/welcome.gif" width="900" height="70"/> </a></p>
+<p align="center"> <img src="https://64.media.tumblr.com/ab9d4dbc02c501b4673d89b2895b643f/tumblr_nk2untpxR61sowe88o1_400.gif" width="350" height="250"/> </a></p>
+
 <h1 align="center">Hi 👋, I'm Ercan</h1>
 <h3 align="center">Welcome to my GitHub account where my projects are located.👋</h3>
 
